@@ -42,4 +42,4 @@ console.log(message)
 })
 
 console.log(prefix)
-client.login(NzQ4NDY5NDY1NTE1MDMyNTc2.X0d4gg.b7Ghoj5lI9Obdq6yC102JIQ9G-k);
+client.login(##################+++++++++++++++++);
